@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<!-- Generator: Adobe Illustrator 27.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+		<svg version="1.1" id="lemon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+			 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+		<style type="text/css">
+			.st0{fill:#F9D70B;}
+			.st1{fill:#F1B501;}
+			.st2{fill:#F9DA49;}
+			.st3{fill:#F9EA80;}
+
+			#lemon:hover #lemon-inner{
+				fill: #ffec59;
+				transition: all 0.5s ease-in-out;
+			}
+			#lemon:hover #lemon-inner1{
+				fill: #f7d126;
+				transition: all 0.5s ease-in-out;
+			}
+			#lemon:hover #drop {
+				transform: translateY(60%);
+				transition: all 0.6s ease-in-out;
+			  }
+			  
+			  #lemon:hover #drop1 {
+				transform: translateY(60%);
+				transition: all 0.6s ease-in-out;
+			  }
+			  
+		</style>
+		<g>
+			<path class="st0" d="M28.9,0v42c11.6,0,21-9.4,21-21S40.5,0,28.9,0z"/>
+			<path id="drop" class="st1" d="M8.1,29.4c0,2.2-1.8,4-4,4s-4-1.8-4-4c0-1.6,2.1-5.7,3.2-7.9c0.3-0.6,1.2-0.6,1.5,0
+				C6,23.7,8.1,27.8,8.1,29.4z"/>
+			<path id="drop1" class="st2" d="M22.1,46c0,2.2-1.8,4-4,4s-4-1.8-4-4c0-1.6,2.1-5.7,3.2-7.9c0.3-0.6,1.2-0.6,1.5,0
+				C20,40.3,22.1,44.4,22.1,46z"/>
+			<path class="st1" d="M28.9,7.8C20.7,2.1,9.4,2.8,2.1,10.1L28.9,37L28.9,7.8L28.9,7.8z"/>
+			<path id="lemon-inner1" class="st2" d="M28.9,12.9c-6.6-6.6-17.4-6.6-24,0l24,24V12.9z"/>
+			<path class="st3" d="M28.9,12.9c-0.2-0.2-0.5-0.4-0.7-0.7L17.9,22.6V8c-0.1,0-0.3,0-0.4,0h-1.2c-0.1,0-0.3,0-0.4,0v16l1,1l0,0l0,0
+				l1,1h11v-2h-9.6l9.6-9.6L28.9,12.9L28.9,12.9z"/>
+			<path class="st1" d="M28.9,0v42c11.6,0,21-9.4,21-21S40.5,0,28.9,0z"/>
+			<path id="lemon-inner" class="st3" d="M28.9,4v34c9.4,0,17-7.6,17-17S38.3,4,28.9,4z"/>
+			<path class="st2" d="M41.6,9.7c-0.1-0.1-0.2-0.2-0.3-0.3l-0.9-0.9c-0.1-0.1-0.2-0.2-0.3-0.3L28.9,19.6V21l0,0l0,0v1.4l11.3,11.3
+				c0.1-0.1,0.2-0.2,0.3-0.3l0.9-0.9c0.1-0.1,0.2-0.2,0.3-0.3L31.3,22h14.5c0-0.3,0-0.7,0-1s0-0.7,0-1H31.3L41.6,9.7z"/>
+		</g>
+		</svg>
