@@ -23,6 +23,15 @@
 		fill: #7dc805;
 		transition: all 0.5s ease-in-out;
 	  }
+	   <script>
+const apple = document.querySelector("#apple");
+
+function logId() {
+	console.log(this.id)
+}
+
+apple.addEventListener("click", logId);
+ </script>
 
 </style>
 <g>
