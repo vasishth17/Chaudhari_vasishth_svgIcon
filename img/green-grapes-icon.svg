@@ -19,6 +19,7 @@
     #grape-icon:hover #grape-color{
         fill: rgb(200, 200, 31);
         transition: all .8s ease;
+		scale:1.01;
     }
        #grape-icon:hover .st4 {
             fill: orangered;
