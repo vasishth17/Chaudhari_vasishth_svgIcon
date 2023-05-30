@@ -19,13 +19,22 @@
     #grape-icon:hover #grape-color{
         fill: rgb(200, 200, 31);
         transition: all .8s ease;
+		scale:1.01;
     }
        #grape-icon:hover .st4 {
             fill: orangered;
             transition: all .8s ease;
         }
     </style>
-    
+     <script>
+const grape = document.querySelector("#grape-icon");
+
+function logId() {
+	console.log(this.id)
+}
+
+grape.addEventListener("click", logId);
+ </script>
 
 <g>
 	<path id="branches" class="st0" d="M41.6,35.8c0-0.3,0-0.6,0-0.8c-9.1,0.9-20.9-4.7-26.9-11.3C9.4,17.9,7.2,10.4,6.2,0

@@ -27,6 +27,15 @@
 			  }
 			  
 		</style>
+		 <script>
+const lemon = document.querySelector("#lemon");
+
+function logId() {
+	console.log(this.id)
+}
+
+lemon.addEventListener("click", logId);
+ </script>
 		<g>
 			<path class="st0" d="M28.9,0v42c11.6,0,21-9.4,21-21S40.5,0,28.9,0z"/>
 			<path id="drop" class="st1" d="M8.1,29.4c0,2.2-1.8,4-4,4s-4-1.8-4-4c0-1.6,2.1-5.7,3.2-7.9c0.3-0.6,1.2-0.6,1.5,0

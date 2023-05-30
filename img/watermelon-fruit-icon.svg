@@ -15,6 +15,15 @@
       }
 
 </style>
+ <script>
+const watermelon = document.querySelector("#watermelon");
+
+function logId() {
+	console.log(this.id)
+}
+
+watermelon.addEventListener("click", logId);
+ </script>
 <g>
 	<path id="watermelon-outside" class="st0" d="M103.2,0.6c13.4,14,20,32.2,19.7,50.4c-0.3,18.2-7.5,36.4-21.5,50.4
 		c-14,14-32.2,21.2-50.4,21.5c-18.2,0.3-36.5-6.3-50.5-19.8c-0.6-0.6-0.7-1.7-0.1-2.3l0,0l0,0l2.8-2.8
