@@ -1,6 +1,9 @@
 object{
     width: 40%;
 }
-/* .text{
-    display: inline;
-} */
+h1{
+    text-align: center;
+}
+.hidden {
+    display: none;
+}
