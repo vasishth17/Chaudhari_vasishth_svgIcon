@@ -5,12 +5,12 @@ This repository contains six SVG icons representing different fruits. These icon
 # Installation
 To use these icons in your project, you can download the SVG files individually by clicking on the links below:
 
-# Grape SVG
-# Mango SVG
-# Watermelon SVG
-# Strawberry SVG
-# Apple SVG
-# Lemon SVG
+## Grape SVG
+## Mango SVG
+## Watermelon SVG
+## Strawberry SVG
+## Apple SVG
+## Lemon SVG
 
 # Customization
 You can customize these icons according to your needs. SVG files can be edited using any text editor or a vector graphics editor like Adobe Illustrator or Inkscape. Feel free to adjust colors, sizes, or any other properties to match your project's requirements.
